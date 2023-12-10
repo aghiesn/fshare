@@ -1,0 +1,74 @@
+@import "bootstrap.css";
+
+body {
+    height: 100vh; 
+    font-family: 'Times New Roman'; 
+    font-size: 20px;
+    background-color: rgba(10, 10, 10, 0.267);
+}
+.welcome{
+    padding: 5% 0% 0% 0%;
+}
+.container-fluid{
+    padding: 5% 10% 0% 10%;
+}
+.card {
+    position: relative;
+    border-radius: 2rem;
+    z-index: 0;
+    background-color: #7070e9;
+    margin: 0px 0px 0px 0px;
+}
+
+.card-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    z-index: -1;
+    padding-top: 20%;
+    padding-left: 2%;
+}
+
+.card-img img {
+    width: 300px;
+    height: auto;
+    transform: rotate(-25deg);
+}
+.row{
+    padding: 2%;
+    row-gap: 0;
+    --bs-gap: 0rem 1rem;
+}
+
+.inputlogin [type="email"] {
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.678);
+	border-radius: 20px;
+    margin: 1% 0% 0% 0%
+}
+
+
+.inputlogin [type="password"] {
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.678);
+	border-radius: 20px;
+    margin: 3% 0% 0% 0%
+}
+
+.inputlogin [type="submit"] {
+    padding-top: 1rem;
+    box-sizing: border-box;
+    width: 180px;
+    height: 58px;
+    background-color: rgba(255, 255, 255, 0.678);
+}
+
+.inputlogin img {
+    height: 100px;
+    width: 5px;
+}
+
+

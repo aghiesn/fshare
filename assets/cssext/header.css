@@ -1,0 +1,14 @@
+.background-vid{
+    position: absolute;
+    width: auto;
+    height: auto;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    margin: 0px 0px 0px 0px;
+    object-fit: cover;
+    font-size: 60px;
+    color: blueviolet;
+    background-image: ;
+    background-image: linear-gradient(rgba(12, 3,51,0.3), rgba(12, 3, 51, 0.3),  rgba(0, 0, 0, 0.355));
+}

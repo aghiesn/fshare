@@ -20,12 +20,12 @@ Website ini terdiri dari 3 user, yaitu
 
 Untuk menjalankan web ini, buatlah database di XAMPP dengan nama fshare.
 Akun admin yang digunakan yaitu
-email    : admintest@admintest.com 
-password : 12345678
+- email    : admintest@admintest.com 
+- password : 12345678
 
 File tambahan yang diperlukan agar berjalan sepenuhnya
-https://drive.google.com/file/d/1ubSFK4RIpAqTCxa0UF4hDjx-shkwoGMi/view?usp=drive_link
-password : 1234
+- https://drive.google.com/file/d/1ubSFK4RIpAqTCxa0UF4hDjx-shkwoGMi/view?usp=drive_link
+- password : 1234
 pastikan susunan folder file tambahan seperti ini
 - assets/uploads/audio/mp3
 - assets/uploads/audio/flac

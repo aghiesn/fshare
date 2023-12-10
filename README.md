@@ -26,6 +26,11 @@ password : 12345678
 File tambahan yang diperlukan agar berjalan sepenuhnya
 https://drive.google.com/file/d/1ubSFK4RIpAqTCxa0UF4hDjx-shkwoGMi/view?usp=drive_link
 password : 1234
+pastikan susunan folder file tambahan seperti ini
+- assets/uploads/audio/mp3
+- assets/uploads/audio/flac
+- assets/uploads/audio/arch
+- assets/uploads/audio/footage
 
 Sumber-sumber yang kami gunakan untuk membuat website ini
 https://github.com/susantokun/ci-susantokun
